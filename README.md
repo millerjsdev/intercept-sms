@@ -1,7 +1,7 @@
 # 📡 Intercept SMS Bot Using SS7 Attacks
 
 **An educational research tool to demonstrate how SMS messages can be intercepted via SS7 network vulnerabilities.**  
-> ⚠️ FOR EDUCATIONAL PURPOSES ONLY — ILLEGAL USE IS STRICTLY PROHIBITED.
+> ⚠️ FOR EDUCATIONAL PURPOSES ONLY & ILLEGAL USE IS STRICTLY PROHIBITED.
 
 ---
 
